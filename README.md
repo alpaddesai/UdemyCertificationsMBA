@@ -1,6 +1,6 @@
 # Udemy Certifications MBA
 
-![image](LearningUdemyCertifications.jpg)
+![image](LearningUdemyCertificationsI.jpg)
 
 ![image](EthicsandExcellence.png)
 
